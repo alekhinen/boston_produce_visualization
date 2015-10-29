@@ -1,0 +1,281 @@
+Site,Name,Location,Area,ZIP,Coordinates,Notes,Map Locations,Condition,Fruit,Property Type
+UO1,Harvard Club,407 Newbury St.,Back Bay,MA,2115,"42.3482101,-71.0886075","407 Newbury St.
+Back Bay, MA 2115
+(42.348106533000475, -71.08986991099965)",,,
+UO2,,311 Marlborough St.,Boston,MA,2116,"42.351565,-71.084433","311 Marlborough St.
+Boston, MA 2116
+(42.35133923000046, -71.08434078999966)",,Nectarine tree,
+UO3,,41-73 Ellington St.,Boston,MA,2121,"42.3009777,-71.0827011","41-73 Ellington St.
+Boston, MA 2121
+(42.30196842400045, -71.08387691199965)",,Apple trees,
+UO4,,219 Park Dr.,Boston,MA,2215,"42.3418695,-71.1012031","219 Park Dr.
+Boston, MA 2215
+(42.34183403200046, -71.10108118999966)",,Mulberry tree,
+UO5,,1171 Boylston St.,Boston,MA,2215,"42.3518773,-71.0707478","1171 Boylston St.
+Boston, MA 2215
+(42.34649964400046, -71.09332052599967)",,Mulberry trees,
+UO6,,606 Brookline Ave.,Brookline,MA,2445,"42.3337419,-71.1127581","606 Brookline Ave.
+Brookline, MA 2445
+(42.333489502000475, -71.11298094699964)",,Apple trees,
+UO7,,6 Parkway Rd.,Brookline,MA,2445,"42.3352603,-71.1114951","6 Parkway Rd.
+Brookline, MA 2445
+(42.335199211000486, -71.11141020799965)",,Black cherry trees,
+UO8,,140 Aberdeen Ave.,Cambridge,MA,2138,"42.3784269,-71.1473197","140 Aberdeen Ave.
+Cambridge, MA 2138
+(42.377908807000495, -71.14707834299963)",,"Cherry, peach, nectarine trees",
+UO9,,445 Concord Ave.,Cambridge,MA,2138,"42.3863784,-71.139171","445 Concord Ave.
+Cambridge, MA 2138
+(42.38625516600047, -71.13941500399966)",,Cherry trees,
+UO10,,220 Garden St.,Cambridge,MA,2138,"42.3862507,-71.1339742","220 Garden St.
+Cambridge, MA 2138
+(42.38639435400046, -71.13445561499964)",,Apple trees,
+UO11,Fruition Project planting,"42.35341,-71.110809",Cambridge,MA,2139,"42.1112911,-70.7709651","42.35341,-71.110809
+Cambridge, MA 2139
+(-71.11080899999962, 42.35341000000045)",,,
+UO12,Fruition Project planting,795 Massachusetts Ave.,Cambridge,MA,2139,"42.3668146,-71.1060367","795 Massachusetts Ave.
+Cambridge, MA 2139
+(42.366779814000495, -71.10599102299966)",,,
+UO13,Fruition Project planting,Ellery St. between Broadway and Cambridge St.,Cambridge,MA,2139,"42.374076,-71.108961","Ellery St. between Broadway and Cambridge St.
+Cambridge, MA 2139
+(42.36559310000047, -71.10414786199965)",,,
+UO14,North Cambridge Catholic High School,40 Norris St.,Cambridge,MA,2139,"42.395135,-71.12966","40 Norris St.
+Cambridge, MA 2139
+(42.39535821700048, -71.12975661799965)",,,
+UO15,Morse School,40 Granite St.,Cambridge,MA,2139,"42.35569,-71.112298","40 Granite St.
+Cambridge, MA 2139
+(42.356708866000474, -71.11329073199965)",,,
+UO16,Aberdeen Ave.,101 Aberdeen St.,Cambridge,MA,2139,"42.378059,-71.146628","101 Aberdeen St.
+Cambridge, MA 2139
+(42.36559310000047, -71.10414786199965)",,,
+UO17,Peabody School,70 Rindge Ave.,Cambridge,MA,2139,"42.391468,-71.128342","70 Rindge Ave.
+Cambridge, MA 2139
+(42.3927933760005, -71.12844277799962)",,,
+UO18,,40 Norris St.,Cambridge,MA,2140,"42.395135,-71.12966","40 Norris St.
+Cambridge, MA 2140
+(42.395488929000464, -71.12958054799964)",,Red currant bushes,
+UO19,,89 Walden St.,Cambridge,MA,2140,"42.3881211,-71.1256205","89 Walden St.
+Cambridge, MA 2140
+(42.38800946500049, -71.12575036199962)",,Apple trees,
+UO20,,318 Beacon St.,Cambridge,MA,2143,"42.352931,-71.082943","318 Beacon St.
+Cambridge, MA 2143
+(42.38442932300046, -71.11394061899966)",,Cherry trees,
+UO21,Holland School Orchard,85 Olney St.,Dorchester,MA,2121,"42.305476,-71.0728447","85 Olney St.
+Dorchester, MA 2121
+(42.3054894280005, -71.07287303399966)",Somewhat well-kept,Apple,Park
+UO22,Bowdoin St. Lot,3 Nottingham St.,Dorchester,MA,2121,"42.300619,-71.073096","3 Nottingham St.
+Dorchester, MA 2121
+(42.300659547000464, -71.07338027999964)",Very Overgrown,Unclear,Vacant Land
+UO23,Rosseter Ave. Lot,Rosseter Ave and Nottingham St.,Dorchester,MA,2121,"42.300251,-71.0734975","Rosseter Ave and Nottingham St.
+Dorchester, MA 2121
+(42.30031184900048, -71.07344760199965)",,,
+UO24,Eldon St. Lot,Eldon St and Washington St.,Dorchester,MA,2121,"42.3029646,-71.0782466","Eldon St and Washington St.
+Dorchester, MA 2121
+(42.302960043000496, -71.07821700899967)",,,
+UO25,John P. Holland Elementary School,85 Olney St.,Dorchester,MA,2121,"42.305476,-71.0728447","85 Olney St.
+Dorchester, MA 2121
+(42.3054894280005, -71.07287303399966)",,,
+UO26,Mt. Calvary Church,9-15 Otisfield St.,Dorchester,MA,2121,"42.312471,-71.080975","9-15 Otisfield St.
+Dorchester, MA 2121
+(42.313324613000475, -71.08091192299963)",,,
+UO27,,26 Normandy St.,Dorchester,MA,2121,"42.3112213,-71.0783139","26 Normandy St.
+Dorchester, MA 2121
+(42.310862718000465, -71.07859122199966)",,Apple trees,
+UO28,Charles St. CG Orchard,68 Charles St.,Dorchester,MA,2122,"42.2996855,-71.0645622","68 Charles St.
+Dorchester, MA 2122
+(42.29979994400048, -71.06460104099966)",,,
+UO29,Neighborhood House Charter School,21 Queen St.,Dorchester,MA,2122,"42.2931669,-71.053358","21 Queen St.
+Dorchester, MA 2122
+(42.29341975700049, -71.05292035399964)",,,
+UO30,Nightingale CG,512 Park St.,Dorchester,MA,2124,"42.2952616,-71.0733826","512 Park St.
+Dorchester, MA 2124
+(42.29527954100047, -71.07341023999965)",,,
+UO31,Marshall Elementary School,35 Westville St. ,Dorchester,MA,2124,"42.2999666,-71.0710316","35 Westville St.
+Dorchester, MA 2124
+(42.30009716100045, -71.07091158199967)",Somewhat well-kept,Unclear,Community Garden
+UO32,Franklin Hill Development,86 American Legion Highway ,Dorchester,MA,2124,"42.296725,-71.091148","86 American Legion Highway
+Dorchester, MA 2124
+(42.296989528000495, -71.09120032699963)",,,
+UO33,Franklin Field Housing Development,5 Ames St.,Dorchester,MA,2124,"42.2904264,-71.0867009","5 Ames St.
+Dorchester, MA 2124
+(42.29052349000045, -71.08648835399964)",,,
+UO34,,492 Vinson St.,Dorchester,MA,2124,"42.298048,-71.0650131","492 Vinson St.
+Dorchester, MA 2124
+(42.29718095700048, -71.06565801399967)",,Grape vines,
+UO35,Edward Everett Square Orchard,735 Columbia Rd.,Dorchester,MA,2125,"42.319641,-71.059989","735 Columbia Rd.
+Dorchester, MA 2125
+(42.32001598500045, -71.06008150599962)",,,
+UO36,Russell School Orchard,736 Columbia Rd.,Dorchester,MA,2125,"42.3200773,-71.0601249","736 Columbia Rd.
+Dorchester, MA 2125
+(42.32010237100047, -71.06030639699964)",,,
+UO37,Nonquit Green,5 Nonquit St.,Dorchester,MA,2125,"42.318092,-71.0683433","5 Nonquit St.
+Dorchester, MA 2125
+(42.318009463000465, -71.06821114099967)",,,
+UO38,Winthrop Elementary School,35 Brookford St.,Dorchester,MA,2125,"42.3183043,-71.0751264","35 Brookford St.
+Dorchester, MA 2125
+(42.31840595700049, -71.07556049299967)",,,
+UO39,Everett Elementary School,71 Pleasant St.,Dorchester,MA,2125,"42.3137204,-71.0597187","71 Pleasant St.
+Dorchester, MA 2125
+(42.31410615800047, -71.05983202599964)",,,
+UO40,Apple trees,200 Marginal St.,East Boston,MA,2128,"42.3645746,-71.0342293","200 Marginal St.
+East Boston, MA 2128
+(42.36451812900049, -71.03403027799965)",Somewhat well-kept,Apple,Vacant Land
+UO41,Heritage Apartments,209 Sumner St.,East Boston,MA,2128,"42.3687101,-71.0393517","209 Sumner St.
+East Boston, MA 2128
+(42.36864049400049, -71.03943156399964)",,,
+UO42,Grape Island,Grape Island,Grape Island,MA,2191,"42.269291,-70.921319","Grape Island
+Grape Island, MA 2191
+(42.2448714680005, -70.94235723799966)",,,
+UO43,Hennigan School,200 Heath St.,Jamaica Plain,MA,2130,"42.326026,-71.106821","200 Heath St.
+Jamaica Plain, MA 2130
+(42.32625980500046, -71.10595069299967)",,,
+UO44,Curley School Orchard,493 Centre St.,Jamaica Plain,MA,2130,"42.318622,-71.113604","493 Centre St.
+Jamaica Plain, MA 2130
+(42.31834938600048, -71.11245071899964)",Well Kept,Apple,School Orchard
+UO45,Southwest Corridor Community Farm,57 Lamartine St.,Jamaica Plain,MA,2130,"42.314158,-71.107307","57 Lamartine St.
+Jamaica Plain, MA 2130
+(42.31399952000049, -71.10724009699965)",Somewhat well-kept,Unclear,Community Garden
+UO46,Egleston Community Orchard,195 Boylston St.,Jamaica Plain,MA,2130,"42.3141788,-71.10164","195 Boylston St.
+Jamaica Plain, MA 2130
+(42.31427952500047, -71.10146024899967)",Somewhat well-kept,Apple,Community Garden
+UO47,Agassiz Elementary School,20 Child St.,Jamaica Plain,MA,2130,"42.307303,-71.113748","20 Child St.
+Jamaica Plain, MA 2130
+(42.306798907000484, -71.11364102599964)",,,
+UO48,Nira Rock Urban Wild,18 Nira Ave.,Jamaica Plain,MA,2130,"42.325539,-71.1094272","18 Nira Ave.
+Jamaica Plain, MA 2130
+(42.325579958000446, -71.10926004799967)",Somewhat well-kept,Unclear,Park
+UO49,New Day CG,65 Day St.,Jamaica Plain,MA,2130,"42.3244122,-71.1083721","65 Day St.
+Jamaica Plain, MA 2130
+(42.324639696000474, -71.10803056399965)",Somewhat well-kept,Unclear,Community Garden
+UO50,Blessed Sacrament Church, 365 Centre St. ,Jamaica Plain,MA,2130,"42.32266,-71.1082519","365 Centre St.
+Jamaica Plain, MA 2130
+(42.322389288000466, -71.10831056799964)",,,
+UO51,Oakdale CG,2 Lawndale Terrace,Jamaica Plain,MA,2130,"42.31421,-71.106064","2 Lawndale Terrace
+Jamaica Plain, MA 2130
+(42.31410898700045, -71.10617077999967)",Overgrown,Unclear,Community Garden
+UO52,Granada Park & CG,23 Granada Park ,Jamaica Plain,MA,2130,"42.313005,-71.098731","23 Granada Park&nbsp;
+Jamaica Plain, MA 2130
+(42.31311412400049, -71.11095648599962)",Somewhat well-kept,Unclear,Community Garden
+UO53,Chilcott Place,23 Granada Park ,Jamaica Plain,MA,2130,"42.313005,-71.098731","23 Granada Park&nbsp;
+Jamaica Plain, MA 2130
+(42.31311412400049, -71.11095648599962)",Somewhat well-kept,Unclear,Community Garden
+UO54,,11 Green St.,Jamaica Plain,MA,2130,"42.313135,-71.1135094","11 Green St.
+Jamaica Plain, MA 2130
+(42.31300971000047, -71.11331032099963)",Well Kept,Various berries,Private
+UO55,Loring-Greenough House,12 South St.,Jamaica Plain,MA,2130,"42.309498,-71.1148879","12 South St.
+Jamaica Plain, MA 2130
+(42.30947911600049, -71.11550080999967)",,,
+UO56,,305 South St.,Jamaica Plain,MA,2130,"42.300436,-71.1168143","305 South St.
+Jamaica Plain, MA 2130
+(42.300366141000495, -71.11699743799966)",,Peach tree,
+UO57,,32 Lawndale Terrace,Jamaica Plain,MA,2130,"42.3141041,-71.1061838","32 Lawndale Terrace
+Jamaica Plain, MA 2130
+(42.31389847800045, -71.10601585599966)",,Cherry tree,
+UO58,,400 Amory St.,Jamaica Plain,MA,2130,"42.3113866,-71.1061593","400 Amory St.
+Jamaica Plain, MA 2130
+(42.31144951900046, -71.10627102799964)",,Blueberry bushes,
+UO59,,113 Wachusett St.,Jamaica Plain,MA,2130,"42.2946496,-71.1153111","113 Wachusett St.
+Jamaica Plain, MA 2130
+(42.294502553000484, -71.11559194699964)",,Grape vines,
+UO60,City Natives,30 Edgewater Drive,Mattapan,MA,2126,"42.266037,-71.09544","30 Edgewater Drive
+Mattapan, MA 2126
+(42.26619939000045, -71.09560089299964)",,,
+UO61,Boston Nature Center Orchard,500 Walk Hill St.,Mattapan,MA,2131,"42.284624,-71.1010972","500 Walk Hill St.
+Mattapan, MA 2131
+(42.28310374500046, -71.10064261999963)",,,
+UO62,McLaughlin Playground Orchard,209 Parker Hill Ave.,Mission Hill,MA,2120,"42.3290416,-71.1029733","209 Parker Hill Ave.
+Mission Hill, MA 2120
+(42.32905885100047, -71.10313182599964)",,,
+UO63,Mission Hill School Orchard,67 Allegheny St.,Mission Hill,MA,2120,"42.330541,-71.0992236","67 Allegheny St.
+Mission Hill, MA 2120
+(42.3307558570005, -71.09991761699962)",,,
+UO64,,5 Sewall St.,Mission Hill,MA,2120,"42.331522,-71.098208","5 Sewall St.
+Mission Hill, MA 2120
+(42.33147964300048, -71.09808060499967)",,Peach and plum trees,
+UO65,,10 Bucknam St.,Mission Hill,MA,2130,"42.327238,-71.104454","10 Bucknam St.
+Mission Hill, MA 2130
+(42.31311412400049, -71.11095648599962)",,Apple trees,
+UO66,,541 Commercial St.,North End,MA,2109,"42.3682669,-71.0565359","541 Commercial St.
+North End, MA 2109
+(42.36833617500048, -71.05633809699964)",Well Kept,Apple trees,Park
+UO67,,805 South St.,Roslindale,MA,2131,"42.2879829,-71.1305749","805 South St.
+Roslindale, MA 2131
+(42.287779335000494, -71.13073052599964)",,Pear trees,
+UO68,Allan Crite CG Orchard,107 Cedar St.,Roxbury,MA,2119,"42.327024,-71.0934994","107 Cedar St.
+Roxbury, MA 2119
+(42.32702952900047, -71.09349106399964)",Very Overgrown,Unclear,Urban Wild
+UO69,Cooper Center Orchard,32 Linwood St.,Roxbury,MA,2119,"42.3281132,-71.0937758","32 Linwood St.
+Roxbury, MA 2119
+(42.32813917700048, -71.09387016499966)",Well Kept,"Peach, Pear",Urban Orchard
+UO70,Shirley-Eustis House Orchard,31 Shirley St.,Roxbury,MA,2119,"42.3236909,-71.0718998","31 Shirley St.
+Roxbury, MA 2119
+(42.323640981000494, -71.07194704299962)",Well Kept,"Pear, Apple",Community Orchard
+UO71,Roxbury Boys and Girls Club,115 Warren St. ,Roxbury,MA,2119,"42.326929,-71.084142","115 Warren St.
+Roxbury, MA 2119
+(42.32705948800049, -71.08329105999962)",Somewhat well-kept,Cherry,Community Garden
+UO72,Warren Gardens Housing Cooperative,250 Warren St.,Roxbury,MA,2119,"42.32224,-71.081795","250 Warren St.
+Roxbury, MA 2119
+(42.322139242000446, -71.08206042399962)",,,
+UO73,Cedar St. lot,Centre St. & Cedar St.,Roxbury,MA,2119,"42.3276594,-71.0956717","Centre St. &amp; Cedar St.
+Roxbury, MA 2119
+(42.32403312300045, -71.08572938399965)",Overgrown,Unclear,Private
+UO74,Dearborn Middle School,35 Greenville St.,Roxbury,MA,2119,"42.326453,-71.080922","35 Greenville St.
+Roxbury, MA 2119
+(42.32616992600049, -71.08035043599966)",Well Kept,"Cherry, Apple",Community Garden
+UO75,Hawthorne Youth and Community Center,9 Fulda St.,Roxbury,MA,2119,"42.3233075,-71.0923386","9 Fulda St.
+Roxbury, MA 2119
+(42.32314875800046, -71.09234924299966)",,,
+UO76,Apple trees,182 Cedar St.,Roxbury,MA,2119,"42.3280853,-71.0968355","182 Cedar St.
+Roxbury, MA 2119
+(42.32793032900048, -71.09646312599966)",Somewhat well-kept,Cherry,Private
+UO77,Nuestra Communidad,391 Dudley St.,Roxbury,MA,2119,"42.313132,-71.078439","391 Dudley St.
+Roxbury, MA 2119
+(42.32628738000045, -71.07560891099962)",Well Kept,Unclear,Community Garden
+UO78,,67 Florence St.,Somerville,MA,2139,"42.384528,-71.082117","67 Florence St.
+Somerville, MA 2139
+(42.3585263490005, -71.11359498199965)",,Berries,
+UO79,Avon St. Garden,117 Summer St. ,Somerville,MA,2143,"42.385599,-71.102829","117 Summer St.&nbsp;
+Somerville, MA 2143
+(42.38207370700047, -71.10098904399968)",,,
+UO80,,213 Summer St.,Somerville,MA,2143,"42.388444,-71.11024","213 Summer St.
+Somerville, MA 2143
+(42.3882790990005, -71.11040080899966)",,Pear trees,
+UO81,,17 Lowell St.,Somerville,MA,2143,"42.3851736,-71.1114643","17 Lowell St.
+Somerville, MA 2143
+(42.38514250200046, -71.11147498199966)",,Plum trees,
+UO82,West Branch Library,40 College Ave.,Somerville,MA,2144,"42.3981288,-71.1217411","40 College Ave.
+Somerville, MA 2144
+(42.39801934200045, -71.12138090699966)",,,
+UO83,,"42.395389,-71.11646",Somerville,MA,2144,"42.395389,-71.11646","42.395389,-71.11646
+Somerville, MA 2144
+(-71.11645999999962, 42.39538900000048)",,"Peach and apple trees, blueberry bushes",
+UO84,Tufts University,160 Packard Ave.,Somerville,MA,2155,"42.4079692,-71.1210912","160 Packard Ave.
+Somerville, MA 2155
+(42.40686608200048, -71.12186669699963)",,,
+UO85,West Branch Library,40 College Ave.,Somerville,MA,2413,"42.3981288,-71.1217411","40 College Ave.
+Somerville, MA 2413
+(42.398033195000494, -71.12140720299965)",,,
+UO86,Bailey Park,70 Belmont St.,Somerville,MA,2413,"42.3878018,-71.1087333","70 Belmont St.
+Somerville, MA 2413
+(42.38788298500049, -71.10869852199966)",,,
+UO87,Kenny Park,20 Grove St.,Somerville,MA,2413,"42.3953927,-71.120786","20 Grove St.
+Somerville, MA 2413
+(42.3953625150005, -71.12075946699963)",,,
+UO88,Osgood St. Garden,4 Osgood St.,Somerville,MA,2413,"42.3832499,-71.1022969","4 Osgood St.
+Somerville, MA 2413
+(42.38347082200045, -71.10236624799967)",,,
+UO89,Walnut St. CG,11 Giles St.,Somerville,MA,2413,"42.3820155,-71.0971002","11 Giles St.
+Somerville, MA 2413
+(42.386681352000494, -71.09826072699963)",,,
+UO90,Community Growing Center,22 Vinal Ave.,Somerville,MA,2413,"42.3831384,-71.0978583","22 Vinal Ave.
+Somerville, MA 2413
+(42.38328264800049, -71.09776020899966)",,,
+UO91,Hurley School,70 Worcester St.,South End,MA,2118,"42.2543173,-71.8244381","70 Worcester St.
+South End, MA 2118
+(42.3391641660005, -71.07776200099966)",,,
+UO92,Peters Park CG,1140 Washington St.,South End,MA,2118,"42.3436506,-71.0662052","1140 Washington St.
+South End, MA 2118
+(42.343779106000454, -71.06606098299966)",,,
+UO93*,Stony Brook Orchard,75 turtle Pond Parkway,Hyde Park,MA,,"42.248383,-71.135171","75 turtle Pond Parkway
+Hyde Park, MA
+(42.24861962400047, -71.13870911099963)",,,
+*Indicates location not included in 2012 map ,,,,,,,,,,

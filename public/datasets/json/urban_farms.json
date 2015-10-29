@@ -1,0 +1,510 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "byxy-288e",
+      "name" : "Urban Farms",
+      "attribution" : "Mayor's Office of Food Initiatives",
+      "attributionLink" : "http://cityofboston.gov/food",
+      "averageRating" : 0,
+      "createdAt" : 1352429395,
+      "description" : "Urban farms in the city of Boston.",
+      "displayType" : "table",
+      "downloadCount" : 332,
+      "indexUpdatedAt" : 1414540030,
+      "licenseId" : "CC0_10",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 2191336,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1357746776,
+      "publicationGroup" : 489244,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1357746214,
+      "rowsUpdatedBy" : "qyzb-duix",
+      "tableId" : 603983,
+      "totalTimesRated" : 0,
+      "viewCount" : 501,
+      "viewLastModified" : 1357746776,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 38288582,
+        "name" : "Site",
+        "dataTypeName" : "text",
+        "fieldName" : "site",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092558,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "UF1",
+          "null" : 0,
+          "largest" : "UF9",
+          "top" : [ {
+            "count" : 20,
+            "item" : "UF1"
+          }, {
+            "count" : 19,
+            "item" : "UF2"
+          }, {
+            "count" : 18,
+            "item" : "UF3"
+          }, {
+            "count" : 17,
+            "item" : "UF4"
+          }, {
+            "count" : 16,
+            "item" : "UF5"
+          }, {
+            "count" : 15,
+            "item" : "UF6"
+          }, {
+            "count" : 14,
+            "item" : "UF7"
+          }, {
+            "count" : 13,
+            "item" : "UF8"
+          }, {
+            "count" : 12,
+            "item" : "UF9"
+          }, {
+            "count" : 11,
+            "item" : "UF10"
+          }, {
+            "count" : 10,
+            "item" : "UF11"
+          }, {
+            "count" : 9,
+            "item" : "UF12"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288583,
+        "name" : "Name",
+        "dataTypeName" : "text",
+        "fieldName" : "name",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092559,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Allandale Farms",
+          "null" : 0,
+          "largest" : "The Food Project",
+          "top" : [ {
+            "count" : 20,
+            "item" : "The Food Project"
+          }, {
+            "count" : 19,
+            "item" : "City Growers"
+          }, {
+            "count" : 18,
+            "item" : "ReVision House"
+          }, {
+            "count" : 17,
+            "item" : "Pilot Urban Agriculture overlay district"
+          }, {
+            "count" : 16,
+            "item" : "Allandale Farms"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288584,
+        "name" : "Location",
+        "dataTypeName" : "text",
+        "fieldName" : "location",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092560,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "123 Langdon St.",
+          "null" : 0,
+          "largest" : "950 Blue Hill Ave.",
+          "top" : [ {
+            "count" : 20,
+            "item" : "850 Harrison Ave. "
+          }, {
+            "count" : 19,
+            "item" : "40 West Cottage St."
+          }, {
+            "count" : 18,
+            "item" : "18 Albion St. "
+          }, {
+            "count" : 17,
+            "item" : "123 Langdon St."
+          }, {
+            "count" : 16,
+            "item" : "950 Blue Hill Ave."
+          }, {
+            "count" : 15,
+            "item" : "76 Lucerne St."
+          }, {
+            "count" : 14,
+            "item" : "131 Glenway St."
+          }, {
+            "count" : 13,
+            "item" : "38 Fabyan St."
+          }, {
+            "count" : 12,
+            "item" : "23-29 Tucker St. "
+          }, {
+            "count" : 11,
+            "item" : "259 Allandale Rd."
+          }, {
+            "count" : 10,
+            "item" : "33 Shirley St."
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288585,
+        "name" : "Area",
+        "dataTypeName" : "text",
+        "fieldName" : "area",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092561,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "Boston",
+          "null" : 0,
+          "largest" : "Roxbury",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Boston"
+          }, {
+            "count" : 19,
+            "item" : "Dorchester"
+          }, {
+            "count" : 18,
+            "item" : "Jamaica Plain"
+          }, {
+            "count" : 17,
+            "item" : "Roxbury"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288586,
+        "name" : "Zip code",
+        "dataTypeName" : "text",
+        "fieldName" : "zip_code",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092562,
+        "width" : 196,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "2118",
+          "null" : 0,
+          "largest" : "2467",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2118"
+          }, {
+            "count" : 19,
+            "item" : "2125"
+          }, {
+            "count" : 18,
+            "item" : "2119"
+          }, {
+            "count" : 17,
+            "item" : "2124"
+          }, {
+            "count" : 16,
+            "item" : "2121"
+          }, {
+            "count" : 15,
+            "item" : "2467"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288587,
+        "name" : "Coordinates",
+        "dataTypeName" : "text",
+        "fieldName" : "coordinates",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5092563,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : "42.253304,-71.114957",
+          "null" : 0,
+          "largest" : "42.3348925,-71.0751964",
+          "top" : [ {
+            "count" : 20,
+            "item" : "42.3348925,-71.0751964"
+          }, {
+            "count" : 19,
+            "item" : "42.3205544,-71.0746118"
+          }, {
+            "count" : 18,
+            "item" : "42.253304,-71.114957"
+          }, {
+            "count" : 17,
+            "item" : "42.3254032,-71.0697165"
+          }, {
+            "count" : 16,
+            "item" : "42.2921582,-71.0888411"
+          }, {
+            "count" : 15,
+            "item" : "42.286918,-71.088234"
+          }, {
+            "count" : 14,
+            "item" : "42.298742,-71.081645"
+          }, {
+            "count" : 13,
+            "item" : "42.289715,-71.091249"
+          }, {
+            "count" : 12,
+            "item" : "42.289119,-71.079027"
+          }, {
+            "count" : 11,
+            "item" : "42.3016834,-71.1392007"
+          }, {
+            "count" : 10,
+            "item" : "42.3236421,-71.0717869"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 38288589,
+        "name" : "Map Location",
+        "dataTypeName" : "location",
+        "description" : "aggregated",
+        "fieldName" : "map_location",
+        "position" : 8,
+        "renderTypeName" : "location",
+        "tableColumnId" : 6762324,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 12,
+          "smallest" : {
+            "longitude" : "-71.06965171169566",
+            "latitude" : "42.32537729090647",
+            "human_address" : "{\"address\":\"123 Langdon St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2119\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-71.0887162019496",
+            "latitude" : "42.29189440573543",
+            "human_address" : "{\"address\":\"950 Blue Hill Ave.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-71.07473087474541",
+              "latitude" : "42.33517814576012",
+              "human_address" : "{\"address\":\"850 Harrison Ave.&nbsp;\",\"city\":\"Boston\",\"state\":\"MA\",\"zip\":\"2118\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-71.07455958351682",
+              "latitude" : "42.32064932143021",
+              "human_address" : "{\"address\":\"40 West Cottage St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2125\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-71.07118712590693",
+              "latitude" : "42.32213320277856",
+              "human_address" : "{\"address\":\"18 Albion St.&nbsp;\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2119\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-71.06965171169566",
+              "latitude" : "42.32537729090647",
+              "human_address" : "{\"address\":\"123 Langdon St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2119\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-71.0887162019496",
+              "latitude" : "42.29189440573543",
+              "human_address" : "{\"address\":\"950 Blue Hill Ave.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-71.08844511564922",
+              "latitude" : "42.28696071821264",
+              "human_address" : "{\"address\":\"76 Lucerne St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-71.08138543771923",
+              "latitude" : "42.298804789338476",
+              "human_address" : "{\"address\":\"131 Glenway St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2121\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-71.09106214275448",
+              "latitude" : "42.28985653514695",
+              "human_address" : "{\"address\":\"38 Fabyan St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-71.06340000010977",
+              "latitude" : "42.30786999970087",
+              "human_address" : "{\"address\":\"23-29 Tucker St.&nbsp;\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-71.08138543771923",
+              "latitude" : "42.298804789338476",
+              "human_address" : "{\"address\":\"131 Glenway St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2121\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-71.14054916195282",
+              "latitude" : "42.30236456682541",
+              "human_address" : "{\"address\":\"259 Allandale Rd.\",\"city\":\"Jamaica Plain\",\"state\":\"MA\",\"zip\":\"2467\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-71.07187061064923",
+              "latitude" : "42.323662050228336",
+              "human_address" : "{\"address\":\"33 Shirley St.\",\"city\":\"Roxbury\",\"state\":\"MA\",\"zip\":\"2119\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons 1.0 Universal (Public Domain Dedication)",
+        "logoUrl" : "images/licenses/ccZero.png",
+        "termsLink" : "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Owner" : "Office of the Mayor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "qyzb-duix",
+        "displayName" : "GGoldleaf",
+        "roleName" : "publisher",
+        "screenName" : "GGoldleaf",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qyzb-duix",
+        "displayName" : "GGoldleaf",
+        "roleName" : "publisher",
+        "screenName" : "GGoldleaf",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "tags" : [ "food", "food initiatives", "urban agriculture" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "E71B9422-0D23-4E77-8430-A5F4DFB02EFD", 1, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF1", "The Food Project", "850 Harrison Ave. ", "Boston", "2118", "42.3348925,-71.0751964", [ "{\"address\":\"850 Harrison Ave.&nbsp;\",\"city\":\"Boston\",\"state\":\"MA\",\"zip\":\"2118\"}", "42.33517814576012", "-71.07473087474541", null, false ] ]
+, [ 2, "61DBC591-F66C-4BFC-960F-51A9FF9D35DF", 2, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF2", "The Food Project", "40 West Cottage St.", "Dorchester", "2125", "42.3205544,-71.0746118", [ "{\"address\":\"40 West Cottage St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2125\"}", "42.32064932143021", "-71.07455958351682", null, false ] ]
+, [ 3, "96CFDA61-0A26-458F-AB2B-EF97A1322AA9", 3, 1352429396, "699782", 1357746214, "699782", "{}", "UF3", "The Food Project", "18 Albion St. ", "Dorchester", "2119", "42.253304,-71.114957", [ "{\"address\":\"18 Albion St.&nbsp;\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2119\"}", "42.32213320277856", "-71.07118712590693", null, false ] ]
+, [ 4, "AE5A15C0-FBEA-4227-AAF7-CFBCCBE6A04F", 4, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF4", "The Food Project", "123 Langdon St.", "Dorchester", "2119", "42.3254032,-71.0697165", [ "{\"address\":\"123 Langdon St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2119\"}", "42.32537729090647", "-71.06965171169566", null, false ] ]
+, [ 5, "743EAF20-D13B-4E81-9A0F-E52CFA43C377", 5, 1352429396, "699782", 1357746214, "699782", "{}", "UF5", "City Growers", "950 Blue Hill Ave.", "Dorchester", "2124", "42.2921582,-71.0888411", [ "{\"address\":\"950 Blue Hill Ave.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}", "42.29189440573543", "-71.0887162019496", null, false ] ]
+, [ 6, "6A55DC8B-8781-4C57-9B55-0EBE034A1AE6", 6, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF6", "City Growers", "76 Lucerne St.", "Dorchester", "2124", "42.286918,-71.088234", [ "{\"address\":\"76 Lucerne St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}", "42.28696071821264", "-71.08844511564922", null, false ] ]
+, [ 7, "6B66146A-7C3D-4C62-AE82-5871B50A0BA2", 7, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF7", "City Growers", "131 Glenway St.", "Dorchester", "2121", "42.298742,-71.081645", [ "{\"address\":\"131 Glenway St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2121\"}", "42.298804789338476", "-71.08138543771923", null, false ] ]
+, [ 8, "574AB1C2-489C-41A9-BFB2-A6DEF50B7822", 8, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF8", "ReVision House", "38 Fabyan St.", "Dorchester", "2124", "42.289715,-71.091249", [ "{\"address\":\"38 Fabyan St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}", "42.28985653514695", "-71.09106214275448", null, false ] ]
+, [ 9, "E1EE8B02-CF7B-49DC-B838-11E15B85049D", 9, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF9", "Pilot Urban Agriculture overlay district", "23-29 Tucker St. ", "Dorchester", "2124", "42.289119,-71.079027", [ "{\"address\":\"23-29 Tucker St.&nbsp;\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2124\"}", "42.30786999970087", "-71.06340000010977", null, false ] ]
+, [ 10, "9019494C-E4C8-4936-ACD3-AE35185A1399", 10, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF10", "Pilot Urban Agriculture overlay district", "131 Glenway St.", "Dorchester", "2121", "42.298742,-71.081645", [ "{\"address\":\"131 Glenway St.\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"2121\"}", "42.298804789338476", "-71.08138543771923", null, false ] ]
+, [ 11, "C131A22D-87A9-4841-B5A9-144A8FF2516E", 11, 1352429396, "699782", 1357746214, "699782", "{\n}", "UF11", "Allandale Farms", "259 Allandale Rd.", "Jamaica Plain", "2467", "42.3016834,-71.1392007", [ "{\"address\":\"259 Allandale Rd.\",\"city\":\"Jamaica Plain\",\"state\":\"MA\",\"zip\":\"2467\"}", "42.30236456682541", "-71.14054916195282", null, false ] ]
+, [ 12, "47C4EA43-34AF-4FB6-A516-0AE044EAC2E5", 12, 1352429396, "699782", 1357746214, "699782", "{}", "UF12", "City Growers", "33 Shirley St.", "Roxbury", "2119", "42.3236421,-71.0717869", [ "{\"address\":\"33 Shirley St.\",\"city\":\"Roxbury\",\"state\":\"MA\",\"zip\":\"2119\"}", "42.323662050228336", "-71.07187061064923", null, false ] ]
+ ]
+}

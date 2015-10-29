@@ -1,0 +1,18 @@
+Site,Location,Location 1,Area,Dates of Operation,Times of Operation,SNAP/EBT?
+Site,Location,"Address
+Area, State Zip
+",Area,Dates of Operation,Times of Operation,SNAP/EBT?
+Codman Square,The Great Hall at the Codman Square Health Center,"6 Norfolk St
+Dorchester, MA
+(42.30786999970087, -71.06340000010977)",Dorchester,"January 6 to March 24, 2013",Sunday: 12:00 PM to 4:00 PM,Yes
+Northeastern,Curry Student Center ,"Fenway, MA 2115
+",Fenway,Nov 28 to April 7th,Wednesdays: 10AM-4PM ,No
+Cambridge,Cambridge Community Center,"5 Callender St
+Cambridge, MA
+(42.36538159916756, -71.1112249426514)",Cambridge,"January 5 to April 27, 2013",Saturday: 10:00 AM to 2:00 PM,Yes
+Jamaica Plain (Egleston Square),Our Lady Of Lourdes Parish,"45 Brookside Ave
+Jamaica Plain, MA
+(42.31333910264873, -71.1034748920108)",Jamaica Plain,"November 10 to February 23, 2013",Saturday: 11:00 AM to 2:00 PM,Yes
+Somerville,Armory,"191 Highland Ave
+MA
+",Somerville,"November 17 to June 1, 2013",Saturday: 9:30 AM to 2:30 PM,Yes

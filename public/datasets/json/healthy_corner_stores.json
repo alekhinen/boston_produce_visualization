@@ -1,0 +1,560 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "ekiy-2qmz",
+      "name" : "Healthy Corner Stores",
+      "attribution" : "Mayor's Office of Food Initiatives",
+      "attributionLink" : "http://cityofboston.gov/food",
+      "averageRating" : 0,
+      "category" : "Health",
+      "createdAt" : 1354721516,
+      "description" : "Corner stores and bodegas participating in the Healthy Corner Stores Initiative sponsored by the Boston Public Health Commission, and other community health center healthy corner store project locations. Accurate as of December 2012: please contact with corrections and updates!",
+      "displayType" : "table",
+      "downloadCount" : 680,
+      "indexUpdatedAt" : 1414540063,
+      "licenseId" : "CC0_10",
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 1911194,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1354721695,
+      "publicationGroup" : 538703,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1354721686,
+      "rowsUpdatedBy" : "qyzb-duix",
+      "tableId" : 538703,
+      "totalTimesRated" : 0,
+      "viewCount" : 490,
+      "viewLastModified" : 1354721695,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : { }
+      }, {
+        "id" : 32949584,
+        "name" : "Store",
+        "dataTypeName" : "text",
+        "fieldName" : "store",
+        "position" : 2,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820616,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "America's Food Basket",
+          "null" : 0,
+          "largest" : "Worlds Best Food Market",
+          "top" : [ {
+            "count" : 20,
+            "item" : "America's Food Basket"
+          }, {
+            "count" : 19,
+            "item" : "Ramirez Grocery"
+          }, {
+            "count" : 18,
+            "item" : "Sobrino Market"
+          }, {
+            "count" : 17,
+            "item" : "Cruz Market"
+          }, {
+            "count" : 16,
+            "item" : "Tio Supermarket"
+          }, {
+            "count" : 15,
+            "item" : "Million Market"
+          }, {
+            "count" : 14,
+            "item" : "El Paisa Butchery"
+          }, {
+            "count" : 13,
+            "item" : "Two Brothers Market"
+          }, {
+            "count" : 12,
+            "item" : "Raymond Market"
+          }, {
+            "count" : 11,
+            "item" : "Mi Tierra Market"
+          }, {
+            "count" : 10,
+            "item" : "Condor Market East Boston"
+          }, {
+            "count" : 9,
+            "item" : "Las Costas Market"
+          }, {
+            "count" : 8,
+            "item" : "Mama Supermarket"
+          }, {
+            "count" : 7,
+            "item" : "Essential Body Herbs"
+          }, {
+            "count" : 6,
+            "item" : "Worlds Best Food Market"
+          }, {
+            "count" : 5,
+            "item" : "Mattapan Square Mobile"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949585,
+        "name" : "Address",
+        "dataTypeName" : "text",
+        "fieldName" : "address",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820617,
+        "width" : 184,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "1010 Bennington St",
+          "null" : 0,
+          "largest" : "9 Meridian St",
+          "top" : [ {
+            "count" : 20,
+            "item" : "217 Bowdoin Street"
+          }, {
+            "count" : 19,
+            "item" : "481 Geneva Avenue"
+          }, {
+            "count" : 18,
+            "item" : "416 Geneva Avenue"
+          }, {
+            "count" : 17,
+            "item" : "237 Bowdoin Street"
+          }, {
+            "count" : 16,
+            "item" : "9 Meridian St"
+          }, {
+            "count" : 15,
+            "item" : "99 Chelsea St"
+          }, {
+            "count" : 14,
+            "item" : "1010 Bennington St"
+          }, {
+            "count" : 13,
+            "item" : "75 Marion St"
+          }, {
+            "count" : 12,
+            "item" : "351 Meridian St"
+          }, {
+            "count" : 11,
+            "item" : "71 Meridian St"
+          }, {
+            "count" : 10,
+            "item" : " 655 Saratoga Street"
+          }, {
+            "count" : 9,
+            "item" : "184 Bremen Street"
+          }, {
+            "count" : 8,
+            "item" : "1178 Blue Hill Ave"
+          }, {
+            "count" : 7,
+            "item" : "1282 Blue Hill Ave"
+          }, {
+            "count" : 6,
+            "item" : "645 River St"
+          }, {
+            "count" : 5,
+            "item" : "1556 Blue Hill Ave"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949586,
+        "name" : "Area",
+        "dataTypeName" : "text",
+        "fieldName" : "area",
+        "position" : 4,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820618,
+        "width" : 148,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "Dorchester",
+          "null" : 0,
+          "largest" : "Mattapan",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Dorchester"
+          }, {
+            "count" : 19,
+            "item" : "East Boston"
+          }, {
+            "count" : 18,
+            "item" : "Mattapan"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949587,
+        "name" : "State",
+        "dataTypeName" : "text",
+        "fieldName" : "state",
+        "position" : 5,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820619,
+        "width" : 160,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "MA",
+          "null" : 0,
+          "largest" : "MA",
+          "top" : [ {
+            "count" : 20,
+            "item" : "MA"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949588,
+        "name" : "Zip",
+        "dataTypeName" : "text",
+        "fieldName" : "zip",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820620,
+        "width" : 136,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "2122",
+          "null" : 0,
+          "largest" : "2128",
+          "top" : [ {
+            "count" : 20,
+            "item" : "2122"
+          }, {
+            "count" : 19,
+            "item" : "2128"
+          }, {
+            "count" : 18,
+            "item" : "2126"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949589,
+        "name" : "Coordinates",
+        "dataTypeName" : "text",
+        "fieldName" : "coordinates",
+        "position" : 7,
+        "renderTypeName" : "text",
+        "tableColumnId" : 5820621,
+        "width" : 232,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : "42.265035,-71.099628",
+          "null" : 0,
+          "largest" : "42.3868595,-71.0063494",
+          "top" : [ {
+            "count" : 20,
+            "item" : "42.305959,-71.06751"
+          }, {
+            "count" : 19,
+            "item" : "42.299738,-71.064742"
+          }, {
+            "count" : 18,
+            "item" : "42.30104,-71.067424"
+          }, {
+            "count" : 17,
+            "item" : "42.306047,-71.067418"
+          }, {
+            "count" : 16,
+            "item" : "42.3704915,-71.0389462"
+          }, {
+            "count" : 15,
+            "item" : "42.3723452,-71.0357756"
+          }, {
+            "count" : 14,
+            "item" : "42.3868595,-71.0063494"
+          }, {
+            "count" : 13,
+            "item" : "42.3783247,-71.0376383"
+          }, {
+            "count" : 12,
+            "item" : "42.3785572,-71.0389671"
+          }, {
+            "count" : 11,
+            "item" : "42.3719373,-71.0389997"
+          }, {
+            "count" : 10,
+            "item" : "42.382387,-71.020753"
+          }, {
+            "count" : 9,
+            "item" : "42.373082,-71.034229"
+          }, {
+            "count" : 8,
+            "item" : "42.2841462,-71.0912407"
+          }, {
+            "count" : 7,
+            "item" : "42.280293,-71.092465"
+          }, {
+            "count" : 6,
+            "item" : "42.265035,-71.099628"
+          }, {
+            "count" : 5,
+            "item" : "42.270576,-71.093275"
+          } ]
+        },
+        "format" : { }
+      }, {
+        "id" : 32949767,
+        "name" : "Location",
+        "dataTypeName" : "location",
+        "fieldName" : "location",
+        "position" : 8,
+        "renderTypeName" : "location",
+        "tableColumnId" : 5820779,
+        "width" : 100,
+        "cachedContents" : {
+          "non_null" : 16,
+          "smallest" : {
+            "longitude" : "-71.02881000038104",
+            "latitude" : "42.378460000328914",
+            "human_address" : "{\"address\":\"1010 Bennington St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+          },
+          "null" : 0,
+          "largest" : {
+            "longitude" : "-71.02881000038104",
+            "latitude" : "42.378460000328914",
+            "human_address" : "{\"address\":\"99 Chelsea St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+          },
+          "top" : [ {
+            "count" : 20,
+            "item" : {
+              "longitude" : "-71.06340000010977",
+              "latitude" : "42.30786999970087",
+              "human_address" : "{\"address\":\"217 Bowdoin Street\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 19,
+            "item" : {
+              "longitude" : "-71.06340000010977",
+              "latitude" : "42.30786999970087",
+              "human_address" : "{\"address\":\"481 Geneva Avenue\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 18,
+            "item" : {
+              "longitude" : "-71.06340000010977",
+              "latitude" : "42.30786999970087",
+              "human_address" : "{\"address\":\"416 Geneva Avenue\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 17,
+            "item" : {
+              "longitude" : "-71.06340000010977",
+              "latitude" : "42.30786999970087",
+              "human_address" : "{\"address\":\"237 Bowdoin Street\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 16,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"9 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 15,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"99 Chelsea St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 14,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"1010 Bennington St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 13,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"75 Marion St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 12,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"351 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 11,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"71 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 10,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"655 Saratoga Street\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 9,
+            "item" : {
+              "longitude" : "-71.02881000038104",
+              "latitude" : "42.378460000328914",
+              "human_address" : "{\"address\":\"184 Bremen Street\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 8,
+            "item" : {
+              "longitude" : "-71.0914038851256",
+              "latitude" : "42.28399295551594",
+              "human_address" : "{\"address\":\"1178 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 7,
+            "item" : {
+              "longitude" : "-71.09266293596664",
+              "latitude" : "42.28020680977255",
+              "human_address" : "{\"address\":\"1282 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 6,
+            "item" : {
+              "longitude" : "-71.09953375627049",
+              "latitude" : "42.264945314935346",
+              "human_address" : "{\"address\":\"645 River St\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          }, {
+            "count" : 5,
+            "item" : {
+              "longitude" : "-71.09355326477566",
+              "latitude" : "42.27026030812851",
+              "human_address" : "{\"address\":\"1556 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}"
+            }
+          } ]
+        },
+        "format" : { },
+        "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+      } ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "license" : {
+        "name" : "Creative Commons 1.0 Universal (Public Domain Dedication)",
+        "logoUrl" : "images/licenses/ccZero.png",
+        "termsLink" : "http://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      },
+      "metadata" : {
+        "custom_fields" : {
+          "Data Owner" : {
+            "Owner" : "Office of the Mayor"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+      },
+      "owner" : {
+        "id" : "qyzb-duix",
+        "displayName" : "GGoldleaf",
+        "roleName" : "publisher",
+        "screenName" : "GGoldleaf",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "query" : { },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "qyzb-duix",
+        "displayName" : "GGoldleaf",
+        "roleName" : "publisher",
+        "screenName" : "GGoldleaf",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "create_pages", "edit_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards" ]
+      },
+      "tags" : [ "food", "food initiatives", "corner stores", "public health", "food access", "food security", "healthy food" ],
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 1, "FBCEAAF1-6D5E-4E39-889C-605F575B5AA7", 1, 1354721518, "699782", 1354721686, "699782", "{\n}", "America's Food Basket", "217 Bowdoin Street", "Dorchester", "MA", "2122", "42.305959,-71.06751", [ "{\"address\":\"217 Bowdoin Street\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}", "42.30786999970087", "-71.06340000010977", null, false ] ]
+, [ 2, "4A154E79-C247-4707-9F17-AD0E343C7342", 2, 1354721518, "699782", 1354721685, "699782", "{\n}", "Ramirez Grocery", "481 Geneva Avenue", "Dorchester", "MA", "2122", "42.299738,-71.064742", [ "{\"address\":\"481 Geneva Avenue\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}", "42.30786999970087", "-71.06340000010977", null, false ] ]
+, [ 3, "D07D922B-83E1-48D2-B14D-8418129A1B7C", 3, 1354721518, "699782", 1354721686, "699782", "{\n}", "Sobrino Market", "416 Geneva Avenue", "Dorchester", "MA", "2122", "42.30104,-71.067424", [ "{\"address\":\"416 Geneva Avenue\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}", "42.30786999970087", "-71.06340000010977", null, false ] ]
+, [ 4, "62567DEF-F234-4290-B7AA-9772B63BF012", 4, 1354721518, "699782", 1354721685, "699782", "{\n}", "Cruz Market", "237 Bowdoin Street", "Dorchester", "MA", "2122", "42.306047,-71.067418", [ "{\"address\":\"237 Bowdoin Street\",\"city\":\"Dorchester\",\"state\":\"MA\",\"zip\":\"\"}", "42.30786999970087", "-71.06340000010977", null, false ] ]
+, [ 5, "480DA865-C2CD-4D6B-91CC-BA9D6B52552B", 5, 1354721518, "699782", 1354721685, "699782", "{\n}", "Tio Supermarket", "9 Meridian St", "East Boston", "MA", "2128", "42.3704915,-71.0389462", [ "{\"address\":\"9 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 6, "24631494-3D43-422C-9077-715C92859951", 6, 1354721518, "699782", 1354721685, "699782", "{\n}", "Million Market", "99 Chelsea St", "East Boston", "MA", "2128", "42.3723452,-71.0357756", [ "{\"address\":\"99 Chelsea St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 7, "04CBB187-5A11-4ECD-BB83-54BC8A8EFC87", 7, 1354721518, "699782", 1354721685, "699782", "{\n}", "El Paisa Butchery", "1010 Bennington St", "East Boston", "MA", "2128", "42.3868595,-71.0063494", [ "{\"address\":\"1010 Bennington St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 8, "E552CAB2-8FB8-4195-B936-D9429C0F44FA", 8, 1354721518, "699782", 1354721686, "699782", "{\n}", "Two Brothers Market", "75 Marion St", "East Boston", "MA", "2128", "42.3783247,-71.0376383", [ "{\"address\":\"75 Marion St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 9, "54942916-1025-4716-9358-A54F6368F135", 9, 1354721518, "699782", 1354721685, "699782", "{\n}", "Raymond Market", "351 Meridian St", "East Boston", "MA", "2128", "42.3785572,-71.0389671", [ "{\"address\":\"351 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 10, "E3068105-6F58-4DCA-B04D-5637FA0D57D1", 10, 1354721518, "699782", 1354721686, "699782", "{\n}", "Mi Tierra Market", "71 Meridian St", "East Boston", "MA", "2128", "42.3719373,-71.0389997", [ "{\"address\":\"71 Meridian St\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 11, "C4186A20-8314-44CF-A616-CF539FD2A410", 11, 1354721518, "699782", 1354721685, "699782", "{\n}", "Condor Market East Boston", " 655 Saratoga Street", "East Boston", "MA", "2128", "42.382387,-71.020753", [ "{\"address\":\"655 Saratoga Street\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 12, "BF5A4F41-F365-44CE-BA6D-65C9AC768EE7", 12, 1354721518, "699782", 1354721685, "699782", "{\n}", "Las Costas Market", "184 Bremen Street", "East Boston", "MA", "2128", "42.373082,-71.034229", [ "{\"address\":\"184 Bremen Street\",\"city\":\"East Boston\",\"state\":\"MA\",\"zip\":\"\"}", "42.378460000328914", "-71.02881000038104", null, false ] ]
+, [ 13, "A0A99AC1-F414-4703-A1A2-C8A22837C2EE", 13, 1354721518, "699782", 1354721685, "699782", "{\n}", "Mama Supermarket", "1178 Blue Hill Ave", "Mattapan", "MA", "2126", "42.2841462,-71.0912407", [ "{\"address\":\"1178 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}", "42.28399295551594", "-71.0914038851256", null, false ] ]
+, [ 14, "C7A986F7-6664-47DE-88E3-C8F0804FFB21", 14, 1354721518, "699782", 1354721686, "699782", "{\n}", "Essential Body Herbs", "1282 Blue Hill Ave", "Mattapan", "MA", "2126", "42.280293,-71.092465", [ "{\"address\":\"1282 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}", "42.28020680977255", "-71.09266293596664", null, false ] ]
+, [ 15, "C42A7F99-EF13-45BB-9B27-8E6EA795B13C", 15, 1354721518, "699782", 1354721686, "699782", "{\n}", "Worlds Best Food Market", "645 River St", "Mattapan", "MA", "2126", "42.265035,-71.099628", [ "{\"address\":\"645 River St\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}", "42.264945314935346", "-71.09953375627049", null, false ] ]
+, [ 16, "A5D137E0-6359-4DCE-82C0-9F663441FFB7", 16, 1354721518, "699782", 1354721685, "699782", "{\n}", "Mattapan Square Mobile", "1556 Blue Hill Ave", "Mattapan", "MA", "2126", "42.270576,-71.093275", [ "{\"address\":\"1556 Blue Hill Ave\",\"city\":\"Mattapan\",\"state\":\"MA\",\"zip\":\"\"}", "42.27026030812851", "-71.09355326477566", null, false ] ]
+ ]
+}
