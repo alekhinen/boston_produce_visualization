@@ -16,6 +16,10 @@ var tiles = L.tileLayer('http://{s}.tile.stamen.com/terrain-lines/{z}/{x}/{y}.{e
   ext: 'png'
 }).addTo(map);
 
+// -----------------------------------
+// MARK: Healthy Corner Store Mappping
+// -----------------------------------
+
 // async HTTP get request.
 d3.csv("/datasets/csv/Healthy_Corner_Stores.csv", function(d) {
   var stringCoordinates = d.Coordinates.split(',');
@@ -39,6 +43,106 @@ d3.csv("/datasets/csv/Healthy_Corner_Stores.csv", function(d) {
     console.log(cornerStore);
     L.marker(cornerStore.coordinates).addTo(map)
       .bindPopup('<b>HEALTHY CORNER STORE</b><br>' + cornerStore.store);
+  }
+
+});
+
+// -------------------------
+// MARK: Urban Farm Mappping
+// -------------------------
+
+// async HTTP get request.
+d3.csv("/datasets/csv/Urban_Farms.csv", function(d) {
+  var stringCoordinates = d.Coordinates.split(',');
+  stringCoordinates[0] = parseFloat(stringCoordinates[0]);
+  stringCoordinates[1] = parseFloat(stringCoordinates[1]);
+  return {
+    name: d.Name,
+    address: d.Location,
+    neighborhood: d.Area,
+    state: 'MA',
+    zip: d.Zip_code,
+    coordinates: stringCoordinates
+  };
+}, function(error, rows) {
+  if (error) {
+    console.log(error);
+    return;
+  }
+
+  for (var i = 0; i < rows.length; i++) {
+    urbanFarm = rows[i];
+    console.log(urbanFarm);
+    L.marker(urbanFarm.coordinates).addTo(map)
+      .bindPopup('<b>URBAN FARM</b><br>' + urbanFarm.name);
+  }
+
+});
+
+// ----------------------------
+// MARK: Urban Orchard Mappping
+// ----------------------------
+
+// async HTTP get request.
+d3.csv("/datasets/csv/Urban_Orchards.csv", function(d) {
+  var stringCoordinates = d.Notes.split(',');
+  console.log(stringCoordinates);
+  stringCoordinates[0] = parseFloat(stringCoordinates[0]);
+  stringCoordinates[1] = parseFloat(stringCoordinates[1]);
+  return {
+    name: d.Name,
+    address: d.Location,
+    neighborhood: d.Area,
+    state: 'MA',
+    zip: d.ZIP,
+    fruit: d.Fruit || '',
+    coordinates: stringCoordinates
+  };
+}, function(error, rows) {
+  if (error) {
+    console.log(error);
+    return;
+  }
+
+  for (var i = 0; i < rows.length; i++) {
+    urbanOrchard = rows[i];
+    console.log(urbanOrchard);
+    L.marker(urbanOrchard.coordinates).addTo(map)
+      .bindPopup('<b>URBAN ORCHARD</b><br>' + urbanOrchard.name + '<br>' + urbanOrchard.fruit);
+  }
+
+});
+
+// ------------------------------------
+// MARK: Summer Farmers Markets Mapping
+// ------------------------------------
+
+// async HTTP get request.
+d3.csv("/datasets/csv/Urban_Orchards.csv", function(d) {
+  var stringCoordinates = d.Notes.split(',');
+  console.log(stringCoordinates);
+  stringCoordinates[0] = parseFloat(stringCoordinates[0]);
+  stringCoordinates[1] = parseFloat(stringCoordinates[1]);
+  return {
+    name: d.Name,
+    address: d.Location,
+    neighborhood: d.Area,
+    state: 'MA',
+    zip: d.ZIP,
+    fruit: d.Fruit || '',
+    coordinates: stringCoordinates
+  };
+}, function(error, rows) {
+  if (error) {
+    console.log(error);
+    return;
+  }
+
+  for (var i = 0; i < rows.length; i++) {
+    urbanOrchard = rows[i];
+    console.log(urbanOrchard);
+    L.marker(urbanOrchard.coordinates).addTo(map)
+      .bindPopup('<b>URBAN ORCHARD</b><br>' + urbanOrchard.name + '<br>' + urbanOrchard.fruit);
   }
 
 });
