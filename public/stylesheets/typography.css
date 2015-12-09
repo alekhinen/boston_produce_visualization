@@ -5,7 +5,16 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 h1 {
   font-weight: 600;
-  letter-spacing: 5px;
-  text-transform: uppercase;
+  /*letter-spacing: 5px;
+  text-transform: uppercase;*/
   font-size: 17px;
+}
+
+.icon-image {
+  float: left;
+  margin-right: 5px;
+}
+
+.icon-text {
+  padding-top: 3px;
 }

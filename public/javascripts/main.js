@@ -53,28 +53,6 @@ var FarmIcon = L.icon({
     popupAnchor:  [0, -25] // point from which the popup should open relative to the iconAnchor
 });
 
-var SummerIcon = L.icon({
-    iconUrl: '/icons/farm_summer.png',
-    shadowUrl: '/icons/shadow.png',
-
-    iconSize:     [22, 22], // size of the icon
-    shadowSize:   [22, 22], // size of the shadow
-    iconAnchor:   [11, 33], // point of the icon which will correspond to marker's location
-    shadowAnchor: [4, 33],  // the same for the shadow
-    popupAnchor:  [0, -25] // point from which the popup should open relative to the iconAnchor
-});
-
-var WinterIcon = L.icon({
-    iconUrl: '/icons/farm_winter.png',
-    shadowUrl: '/icons/shadow.png',
-
-    iconSize:     [22, 22], // size of the icon
-    shadowSize:   [22, 22], // size of the shadow
-    iconAnchor:   [11, 33], // point of the icon which will correspond to marker's location
-    shadowAnchor: [4, 33],  // the same for the shadow
-    popupAnchor:  [0, -25] // point from which the popup should open relative to the iconAnchor
-});
-
 // -----------------------------------
 // MARK: Healthy Corner Store Mappping
 // -----------------------------------
@@ -101,7 +79,7 @@ d3.csv("/datasets/csv/Healthy_Corner_Stores.csv", function(d) {
     cornerStore = rows[i];
     console.log(cornerStore);
     L.marker(cornerStore.coordinates, {icon: CornerStoreIcon}).addTo(map)
-      .bindPopup('<b>HEALTHY CORNER STORE</b><br>' + cornerStore.store);
+      .bindPopup('<b>name:</b> ' + cornerStore.store + '<br><b>address:</b> ' + cornerStore.address);
   }
 
 });
@@ -131,9 +109,8 @@ d3.csv("/datasets/csv/Urban_Farms.csv", function(d) {
 
   for (var i = 0; i < rows.length; i++) {
     urbanFarm = rows[i];
-    console.log(urbanFarm);
     L.marker(urbanFarm.coordinates, {icon: FarmIcon}).addTo(map)
-      .bindPopup('<b>URBAN FARM</b><br>' + urbanFarm.name);
+      .bindPopup('<b>name:</b> ' + urbanFarm.store + '<br><b>address:</b> ' + urbanFarm.address);
   }
 
 });
@@ -145,7 +122,6 @@ d3.csv("/datasets/csv/Urban_Farms.csv", function(d) {
 // async HTTP get request.
 d3.csv("/datasets/csv/Urban_Orchards.csv", function(d) {
   var stringCoordinates = d.Notes.split(',');
-  console.log(stringCoordinates);
   stringCoordinates[0] = parseFloat(stringCoordinates[0]);
   stringCoordinates[1] = parseFloat(stringCoordinates[1]);
   return {
@@ -165,9 +141,9 @@ d3.csv("/datasets/csv/Urban_Orchards.csv", function(d) {
 
   for (var i = 0; i < rows.length; i++) {
     urbanOrchard = rows[i];
-    console.log(urbanOrchard);
     L.marker(urbanOrchard.coordinates, {icon: OrchardIcon}).addTo(map)
-      .bindPopup('<b>URBAN ORCHARD</b><br>' + urbanOrchard.name + '<br>' + urbanOrchard.fruit);
+      .bindPopup('<b>name:</b> ' + urbanOrchard.name + '<br><b>address:</b> ' + urbanOrchard.address
+        + '<br><b>fruits grown: </b>' + urbanOrchard.fruit);
   }
 
 });
@@ -179,7 +155,6 @@ d3.csv("/datasets/csv/Urban_Orchards.csv", function(d) {
 // async HTTP get request.
 d3.csv("/datasets/csv/Active_Food_Establishment_Map.csv", function(d) {
   var stringCoordinates = d.Location.split(',');
-  console.log(stringCoordinates);
   stringCoordinates[0] = parseFloat(stringCoordinates[0].substr(1));
   stringCoordinates[1] = parseFloat(stringCoordinates[1].substr(0, stringCoordinates[1].length - 1));
   return {
@@ -205,7 +180,7 @@ d3.csv("/datasets/csv/Active_Food_Establishment_Map.csv", function(d) {
         fillOpacity: 0.5
     })
     .addTo(map)
-    .bindPopup('<b>' + foodPlace.name + '</b><br> License Status: ' + foodPlace.licenseStatus);
+    .bindPopup('<b>name: </b>' + foodPlace.name + '<br> <b>license status:</b> ' + foodPlace.licenseStatus);
   }
 
 });
