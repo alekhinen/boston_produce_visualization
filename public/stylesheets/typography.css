@@ -1,5 +1,8 @@
 h1, h2, h3, h4, h5, h6, p, a {
   font-family: 'Helvetica Neue', "HelveticaNeue-Light", "Helvetica Neue Light", "Lato", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
   color: #f1f1f1;
 }
 

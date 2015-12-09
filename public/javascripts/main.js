@@ -110,7 +110,7 @@ d3.csv("/datasets/csv/Urban_Farms.csv", function(d) {
   for (var i = 0; i < rows.length; i++) {
     urbanFarm = rows[i];
     L.marker(urbanFarm.coordinates, {icon: FarmIcon}).addTo(map)
-      .bindPopup('<b>name:</b> ' + urbanFarm.store + '<br><b>address:</b> ' + urbanFarm.address);
+      .bindPopup('<b>name:</b> ' + urbanFarm.name + '<br><b>address:</b> ' + urbanFarm.address);
   }
 
 });
